@@ -28,4 +28,4 @@ Si es posible, añade capturas de pantalla para ayudar a explicar el problema.
 - Versión del software: [e.g. 22]
 
 **Información adicional**
-Añade cualquier otro contexto sobre el problema aquí.
+Añade cualquier otro contexto sobre el problema aquí
